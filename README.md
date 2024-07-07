@@ -35,6 +35,7 @@ For this project, I utilized two primary datasets:
 
 - **User-Item Matrix**: Constructed a user-item interaction matrix from movie ratings data (`ratings_matrix_df`), crucial for collaborative filtering.
 - **Collaborative Filtering**: Implemented collaborative filtering using TensorFlow to predict movie ratings and provide personalized recommendations based on user preferences.
+- **Hyperparameter Tunning**: Different hyperparameters were tested to find the optimal values.
 
 ## 4. Algorithm Development
 
